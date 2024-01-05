@@ -1,6 +1,6 @@
 # test_desktop
 
-A new Flutter project.
+Flutter practice project where I was learning the whole concept of Flutter, widgets, providers, HTTP calls and such.
 
 ## Getting Started
 
